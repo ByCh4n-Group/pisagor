@@ -1,6 +1,6 @@
 packages:
-  - colorsh|1.0.0|/colorsh.hera
-  - yaml2sh|1.0.0|/yaml2sh.hera
-  - bashtextbank|1.0.0|/bashtextbank.hera
-  - osutilsh|1.0.0|/osutilsh.hera
-  - tuiutilsh|1.0.0|/tuiutilsh.hera
+  - colorsh|1.0.0|/colorsh-1.0.0.hera
+  - yaml2sh|1.0.0|/yaml2sh-1.0.0.hera
+  - bashtextbank|1.0.0|/bashtextbank-1.0.0.hera
+  - osutilsh|1.0.0|/osutilsh-1.0.0.hera
+  - tuiutilsh|1.0.0|/tuiutilsh-1.0.0.hera
