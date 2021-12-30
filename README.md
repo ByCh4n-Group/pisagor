@@ -1,2 +1,2 @@
-# piasgor
+# pisagor
 hera repository
