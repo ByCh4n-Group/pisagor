@@ -1,1 +1,7 @@
-A
+packages:
+  - colorsh|1.0.0|/colorsh.hera
+  - yaml2sh|1.0.0|/yaml2sh.hera
+  - bashtextbank|1.0.0|/bashtextbank.hera
+  - osutilsh|1.0.0|/osutilsh.hera
+  - tuiutilsh|1.0.0|/tuiutilsh.hera
+  - heralibimport|1.0.0|/heralibimport.hera
